@@ -1,6 +1,6 @@
 # health-helper-plugin
 kingofhenz#3817 \
 /estinguish \
-/heal \ 
+/heal \
 /clearnegitiveeffects \
 /eat or food\
