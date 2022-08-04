@@ -1,3 +1,4 @@
 # health-helper-plugin
-kingofhenz#3817
+kingofhenz#3817 \
+/estinguish 
 /heal
