@@ -2,5 +2,5 @@
 kingofhenz#3817 \
 /estinguish \
 /heal \ 
-/clearnegitiveeffects\
+/clearnegitiveeffects \
 /eat or food\
