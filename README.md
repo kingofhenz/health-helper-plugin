@@ -3,4 +3,4 @@ kingofhenz#3817 \
 /estinguish \
 /heal \
 /clearnegitiveeffects \
-/eat or food\
+/eat or food
