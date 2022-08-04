@@ -1,0 +1,21 @@
+name: Health-Helper
+version: '${project.version}'
+main: me.henry.healthhelper.HealthHelper
+api-version: 1.19
+commands:
+  heal:
+    description: heals player to max health
+    usage: /<command>
+    aliases: heal
+  feed:
+    description: makes players saturation 20
+    usage: /<command>
+    aliases: [feed, eat]
+  clearNegitiveEffects:
+    description: clears all negative effects
+    usage: /<command>
+    aliases: [clearnegativeeffects, cleareffects]
+  extinguish:
+    description: makes you not on fire
+    usage: /<command>
+    aliases: extinguish
