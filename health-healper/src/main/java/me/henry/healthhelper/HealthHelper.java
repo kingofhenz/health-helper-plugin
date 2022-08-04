@@ -9,7 +9,7 @@ public final class HealthHelper extends JavaPlugin implements Listener {
     public void onEnable() {
         // Plugin startup logic
         getServer().getPluginManager().registerEvents(this, this);
-        getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "[Dupe-Plugin]" + " Plugin has been enabled");
+        getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "[Health-Helper-Plugin]" + " Plugin has been enabled");
         getCommand("heal").setExecutor(new commands());
         getCommand("clearNegitiveEffects").setExecutor(new commands());
         getCommand("feed").setExecutor(new commands());
